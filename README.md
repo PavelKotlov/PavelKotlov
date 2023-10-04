@@ -97,7 +97,7 @@ I specialize in building responsive and user-friendly web applications using mod
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg"
+        src="https://sass-lang.com/assets/img/logos/logo.svg"
         width="48"
         height="48"
         alt="SQL"
