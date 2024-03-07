@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hey there, I'm Pavel :v: </h1>
 
-### Welcome to my profile! I'm a full stack web dev 👨‍💻 who loves to build cool stuff on the web. I'm passionate about using technology to solve real-world problems or create them, either way its good times 😅.
+### Welcome to my profile! Thank you for visiting my profile. I specialize in full stack web development and thrive on crafting impactful digital solutions. My passion lies in leveraging technology to address practical challenges and innovate within the digital space. Whether it's problem-solving or sparking creativity, I'm dedicated to delivering high-quality results. Let's collaborate and make a difference together!
 
 ## What I ~~try to~~ Do
 
-I specialize in building responsive and user-friendly web applications using modern web technologies. I love working on both the front-end and back-end, and I have experience working with a wide range of programming languages and frameworks.
+I have a knack for crafting user-friendly web applications that adapt seamlessly across devices. I enjoy diving into both front-end and back-end development, having worked with a diverse array of programming languages and frameworks.
 
 ## My Humanpowers
 
