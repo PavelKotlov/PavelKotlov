@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Thank you for visiting my profile. I specialize in full stack web development and thrive on crafting impactful digital solutions. My passion lies in leveraging technology to address practical challenges and innovate within the digital space. Whether it's problem-solving or sparking creativity, I'm dedicated to delivering high-quality results. Let's collaborate and make a difference together!
 
-## What I ~~try to~~ Do
+## What I Do
 
 I have a knack for crafting user-friendly web applications that adapt seamlessly across devices. I enjoy diving into both front-end and back-end development, having worked with a diverse array of programming languages and frameworks.
 
